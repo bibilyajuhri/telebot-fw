@@ -1,0 +1,12 @@
+Uncaught Exception: error ngab in /home/xcsrf/telebotv2/cron/controllers/LikecommentController.php:13
+Stack trace:
+#0 /home/xcsrf/telebotv2/cron.php(40): cron\controllers\LikecommentController->actionIndex()
+#1 {main}
+  thrown
+
+2022-07-22 14:22:34 [1] Uncaught Exception: error ngab in /home/xcsrf/telebotv2/cron/controllers/LikecommentController.php:13
+Stack trace:
+#0 /home/xcsrf/telebotv2/cron.php(40): cron\controllers\LikecommentController->actionIndex()
+#1 {main}
+  thrown - /home/xcsrf/telebotv2/cron/controllers/LikecommentController.php : 13
+
